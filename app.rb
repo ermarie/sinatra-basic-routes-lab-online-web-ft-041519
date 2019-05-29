@@ -14,5 +14,5 @@ class App < Sinatra::Base
     "My favorite song is __"
   end
 
-  
+
 end
